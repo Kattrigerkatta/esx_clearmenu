@@ -3,6 +3,7 @@ A NativeUI menu to clear all entitys in the area of the player
 
 Dependencies: 
 NativeUI: https://github.com/FrazzIe/NativeUILua
+
 es_extended: https://github.com/esx-framework/es_extended
 
 Usage: 
